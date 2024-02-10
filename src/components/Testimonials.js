@@ -3,7 +3,7 @@ import React from 'react';
 const Testimonial = () => {
   return (
     <div className='testimonial-container'>
-      <h2 className='testimonial-title'>Testimonials</h2>
+      <h2 className='testimonial-title'><u>Testimonials</u></h2>
       <div className='testimonial-grid'>
         <div className='testimonial'>
           <div className='testimonial-content'>

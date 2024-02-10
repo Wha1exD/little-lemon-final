@@ -20,9 +20,9 @@ const Nav = () => {
 
       <ul className={`links ${menuOpen ? 'visible' : ''}`}>
       <li><a href='/'>Home</a></li>
-        <li><a href='/'>About</a></li>
-        <li><a href='/'>Menu</a></li>
-        <li><a href='/'>Reservation</a></li>
+        <li><a href='#about'>About</a></li>
+        <li><a href='#menu'>Menu</a></li>
+        <li><a href='#reservation'>Reservation</a></li>
         <li><a href='/'>Order Online</a></li>
         <li><a href='/'>Log in</a></li>
       </ul>
